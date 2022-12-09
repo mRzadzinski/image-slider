@@ -2,6 +2,6 @@
 
 ![interface](./img/screenshot.png)
 
-[Check live]()
+[Check live](https://mrzadzinski.github.io/image-slider/)
 
 Simple image slider displaying cute birds.
